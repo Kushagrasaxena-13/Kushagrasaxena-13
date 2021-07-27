@@ -1,5 +1,5 @@
 
-![Kushagra](https://user-images.githubusercontent.com/71897053/127153964-5755940a-f86b-489d-8135-e045d6122916.gif)
+![Kushagra (1)](https://user-images.githubusercontent.com/71897053/127155588-1fbdc82e-4be5-4aa0-aa8c-2aa2f36627ff.gif)
 
 <h1 align="center">Hi 👋, I'm Kushagra</h1>
 
