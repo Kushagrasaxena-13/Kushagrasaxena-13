@@ -1,5 +1,5 @@
-<img align="right" alt="Coding" width="400" src="https://www.canva.com/design/DAElY9uirA4/share/preview?token=cidPWRBnTuy21h3l-SGorg&role=EDITOR&utm_content=DAElY9uirA4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
-">
+[![MasterHead](https://www.canva.com/design/DAElY9uirA4/share/preview?token=cidPWRBnTuy21h3l-SGorg&role=EDITOR&utm_content=DAElY9uirA4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
+)]
 
 <h1 align="center">Hi 👋, I'm Kushagra Saxena</h1>
 <h3 align="center">A passionate Android app developer from India</h3>
