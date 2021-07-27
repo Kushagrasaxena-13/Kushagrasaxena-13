@@ -1,6 +1,5 @@
-[![MasterHead](https://www.canva.com/design/DAElY9uirA4/40tvf4gGV74qY9bJPzEaOQ/view?utm_content=DAElY9uirA4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
-)]
-(https://cluster-1ea58.web.app)
+![Kushagra](https://user-images.githubusercontent.com/71897053/127153597-72ca3dc9-5f3a-4ba6-9f14-7ced5a27bf12.gif)
+
 
 <h1 align="center">Hi 👋, I'm Kushagra Saxena</h1>
 <h3 align="center">A passionate Android app developer from India</h3>
