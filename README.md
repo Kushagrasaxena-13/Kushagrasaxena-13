@@ -1,4 +1,4 @@
-![Kushagra](https://user-images.githubusercontent.com/71897053/127153597-72ca3dc9-5f3a-4ba6-9f14-7ced5a27bf12.gif)
+![Kushagra](https://user-images.githubusercontent.com/71897053/127153964-5755940a-f86b-489d-8135-e045d6122916.gif)
 
 
 <h1 align="center">Hi 👋, I'm Kushagra Saxena</h1>
