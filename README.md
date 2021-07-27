@@ -3,11 +3,12 @@
 
 <h1 align="center">Hi 👋, I'm Kushagra Saxena</h1>
 
-![coder](https://user-images.githubusercontent.com/71897053/127154808-f344b279-e7f2-4729-a6aa-ad7b1a8e2a3e.jpg)
 <h3 align="center">A passionate Android app developer from India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushagrasaxena-13&label=Profile%20views&color=0e75b6&style=flat" alt="kushagrasaxena-13" /> </p>
+
+![coder](https://user-images.githubusercontent.com/71897053/127154808-f344b279-e7f2-4729-a6aa-ad7b1a8e2a3e.jpg)
 
 - 🌱 I’m currently learning **flutter , dart**
 
