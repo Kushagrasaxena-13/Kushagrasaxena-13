@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAElY9uirA4/share/preview?token=cidPWRBnTuy21h3l-SGorg&role=EDITOR&utm_content=DAElY9uirA4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
+[![MasterHead](https://www.canva.com/design/DAElY9uirA4/40tvf4gGV74qY9bJPzEaOQ/view?utm_content=DAElY9uirA4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 )]
 
 <h1 align="center">Hi 👋, I'm Kushagra Saxena</h1>
