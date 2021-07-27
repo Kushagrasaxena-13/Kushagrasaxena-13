@@ -1,7 +1,7 @@
 
 ![Kushagra](https://user-images.githubusercontent.com/71897053/127153964-5755940a-f86b-489d-8135-e045d6122916.gif)
 
-<h1 align="center">Hi 👋, I'm Kushagra Saxena</h1>
+<h1 align="center">Hi 👋, I'm Kushagra</h1>
 
 <h3 align="center">A passionate Android app developer from India</h3>
 
