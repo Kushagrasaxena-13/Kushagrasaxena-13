@@ -1,8 +1,10 @@
+
 ![Kushagra](https://user-images.githubusercontent.com/71897053/127153964-5755940a-f86b-489d-8135-e045d6122916.gif)
 
 
 <h1 align="center">Hi 👋, I'm Kushagra Saxena</h1>
 <h3 align="center">A passionate Android app developer from India</h3>
+![coder](https://user-images.githubusercontent.com/71897053/127154808-f344b279-e7f2-4729-a6aa-ad7b1a8e2a3e.jpg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushagrasaxena-13&label=Profile%20views&color=0e75b6&style=flat" alt="kushagrasaxena-13" /> </p>
 
@@ -17,6 +19,7 @@
 - 📫 How to reach me **kushagrasaxena2019@gmail.com**
 
 - ⚡ Fun fact **I think android is easy then dart.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
