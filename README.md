@@ -1,4 +1,4 @@
-```md id="m4q8p1"
+
 <h1 align="center">Hi 👋, I'm Kushagra</h1>
 
 <h3 align="center">Senior Software Developer • React Native • Team Lead • Backend Engineer</h3>
@@ -72,4 +72,4 @@ Building scalable mobile apps, backend systems & cloud deployments.
 - 📌 Jitsi-based internal meeting platform
 - 📌 Apple In-App Purchase integration system
 - 📌 AWS production deployment pipelines
-```
+
